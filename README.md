@@ -7,7 +7,7 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+Hi. My name is Wesam. I am a PhD candidate in health services research. I use SAS to manage big data and here to learn more about coding. 
 
 
 <!-- 
